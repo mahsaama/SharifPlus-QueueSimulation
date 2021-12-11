@@ -5,4 +5,4 @@
 | Name	         |Student_Number|
 |----------------|--------------|
 | Mahsa Amani	   |97105769      |
-| Matina MAhdizadeh|97110347      |
+| Matina Mahdizadeh|97110347      |
